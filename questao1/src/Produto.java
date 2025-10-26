@@ -24,5 +24,4 @@ public double getImposto(){
     return imposto;
 }
 
-
 }
